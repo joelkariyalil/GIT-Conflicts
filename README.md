@@ -1,0 +1,2 @@
+# GIT-Conflicts
+Del: 
